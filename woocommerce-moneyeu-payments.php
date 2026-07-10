@@ -2,7 +2,7 @@
 /*
 Plugin Name: WooCommerce MoneyEU Payments (S2S / HPP)
 Description: Integrates WooCommerce with the MoneyEU unified processPayment API, supporting both the Server-to-Server (inline card form) and Hosted Payment Page (redirect) flows through the same core endpoint.
-Version: 1.0.0
+Version: 1.0.1
 Author: CardinalDelphi
 Requires PHP: 7.4
 Requires at least: 5.8
